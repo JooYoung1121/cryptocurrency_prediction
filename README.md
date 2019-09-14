@@ -16,3 +16,6 @@
 -------------------------
 ### Test 
 #### train을 시킨 다음 나온 모델 weight.h5에 이름을 load_weight부분에 입력 후 실행시키면 됩니다. 이때 내부 하이퍼 파라미터는 개인이 직접 수정해나가면 됩니다. 
+
+### result
+![result](https://user-images.githubusercontent.com/37646197/64907087-1b1c9600-d729-11e9-8cc3-0beecad0ed0e.png)
