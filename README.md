@@ -3,7 +3,7 @@
 -------------------------
 
 ## requirement 
-### pandas, numpy, pyplot, keras, ccxt 
+pandas, numpy, pyplot, keras, ccxt 
 
 ## usage
 ### data loader 
